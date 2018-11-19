@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta name="generator" content=
+"HTML Tidy for HTML5 for Linux version 5.2.0">
+<title>Rooms - Ranscombe Manor</title>
+<link rel="stylesheet" href="styles.css">
+<link href='https://fonts.googleapis.com/css?family=Alegreya' rel=
+'stylesheet'>
+<link href='https://fonts.googleapis.com/css?family=Great+Vibes'
+rel='stylesheet'>
+<meta name="viewport" content=
+"width=device-width, initial-scale=1.0, user-scalable=yes">
+</head>
+<body>
+<img class="topimage" alt="Rose bedroom" src="/roseBedroom.jpg">
+<div class="topcontent">
+<div class="callusdiv"><span class="callusspan">Call us: 01548
+854545</span></div>
+<div class="toplinks"><span class="toplinkspan"><a href=
+"/rooms" class="pagelink">Rooms</a></span> <a href=
+"https://via.eviivo.com/ranscombetq7" class="pagelink">Book</a>
+<a class="pagelink" href="/about">About Us</a> <a class=
+"pagelink" href="/localarea">Local Area</a></div>
+<div class="title"><a class="homelink" href="/"><span class=
+"titlespan">Ranscombe Manor</span></a></div>
+<div class="pagetitlediv"><span class="pagetitlespan">Rose
+Room</span></div>
+</div>
+<div class="blurb">
+<p>The Rose Room is a delightfully stylish room with a super king
+sized bed. There is a sofa and tea and coffee making facilities.</p>
+</div>
+<img alt="Rose bathroom" class="bigimage" src="/rose2.jpg">
+<div class="blurb">
+<p>The en-suite bathroom is beautifully modern with a window
+overlooking the garden. There is a bath and a separate shower.</p>
+</div>
+<img alt="Rose bathroom" class="bigimage" src="/roseBathroom.jpg">
+<div class="blurb">
+<p>View of the garden.</p>
+</div>
+<img alt="View of the garden" class="bigimage" src="/roseView.jpg">
+<div class="bottomdiv">© Copyright 2018 Amanda Lubrani<br>
+Ranscombe Manor, Kingsbridge, Devon, TQ7 2DP</div>
+</body>
+</html>

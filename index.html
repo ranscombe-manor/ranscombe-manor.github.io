@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta name="generator" content=
+"HTML Tidy for HTML5 for Linux version 5.2.0">
+<title>Ranscombe Manor</title>
+<link rel="stylesheet" href="styles.css">
+<link href='https://fonts.googleapis.com/css?family=Alegreya' rel=
+'stylesheet'>
+<link href='https://fonts.googleapis.com/css?family=Great+Vibes'
+rel='stylesheet'>
+<meta name="viewport" content=
+"width=device-width, initial-scale=1.0, user-scalable=yes">
+<script>
+var videoUrl = 'http://www.vimeo.com/190882480';
+var endpoint = 'https://www.vimeo.com/api/oembed.json';
+var callback = 'embedVideo';
+var url = endpoint + '?url=' + encodeURIComponent(videoUrl) + '&callback=' + callback + '&width=640';
+function embedVideo(video) {
+    document.getElementById('embed').innerHTML = unescape(video.html);
+}
+function init() {
+    var js = document.createElement('script');
+    js.setAttribute('type', 'text/javascript');
+    js.setAttribute('src', url);
+    document.getElementsByTagName('head').item(0).appendChild(js);
+}
+window.onload = init;
+</script>
+</head>
+<body>
+<div id="slider"></div>
+<script src="slideshow.js"></script>
+<div class="topcontent">
+<div class="callusdiv"><span class="callusspan">Call us: 01548
+854545</span></div>
+<div class="toplinks"><span class="toplinkspan"><a class="pagelink"
+href="/rooms">Rooms</a> <a href=
+"https://via.eviivo.com/ranscombetq7" class="pagelink">Book</a>
+<a href="/about" class="pagelink">About</a> <a class="pagelink"
+href="/localarea">Local Area</a></span></div>
+<div class="title"><a class="homelink" href="/"><span class=
+"titlespan">Ranscombe Manor</span></a></div>
+<div class="pagetitlediv"><span class="pagetitlespan">Boutique
+B&amp;B</span></div>
+</div>
+<div id="topgap"></div>
+<div class="blurb">
+<img alt="Booking prize" class="prizeimage" align="right" src="/smallprize.jpg">
+<p>Ranscombe Manor is a luxurious bed and breakfast establishment located in the South Hams area of South Devon. Dating back to the 1600s, this property is an imposing and luxurious historical manor house hidden within 32 acres of it's own stunning and tranquil countryside.</p>
+<div id="embed">Loading video...</div>
+<p>You will approach the secluded manor house by a long private drive which leads to the private parking area. The views from the gardens are superb, stretching for miles over open, rolling Devon countryside.</p>
+<p>Inside, the property is sumptuously furnished in a comfortable
+and traditional style, with beautifully furnished bedrooms and
+deluxe, modern en-suites. This house is the perfect location for
+those who want to experience true luxury while benefiting from the
+very best of the stunning scenery that this glorious area has to
+offer. With five bedrooms available offering flexible
+accommodation, you will find this to be the perfect location for
+groups and large families, whether you are celebrating a special
+occasion or simply looking to get away from it all.</p>
+<div><img alt="Rose room" class="smallimage" src="/mainCosy.jpg">
+<p>With two family suites and a double room to chose from, the
+accommodation offers a relaxed and comfortable place for you to use
+as a base from which to explore the South Devon area.</p>
+<p>The vast gardens and grounds have been beautifully and
+thoughtfully laid out so you can spend hours exploring. After a
+relaxing breakfast on the patio, you can take a leisurely stroll
+through the mature gardens with formal parterre, fruit orchards and
+down the stone steps to the ornamental pond. With an array of
+mature trees, hedges and woodland, this property is truly like a
+fairy tale. Guests are free to roam the entire grounds and
+woodlands, with ample opportunities to spot wildlife, have a
+picnic, roll down hills or just sit and admire the views! People
+who have visited Ranscombe Manor are spellbound by the stunning
+setting and find it hard to leave.</p>
+<p>FOR MORE INFORMATION PLEASE CALL THE OWNER AMANDA LUBRANI DIRECT
+ON 07903 655646.</p>
+<img alt="The pond at Ranscombe" class="smallimage" src=
+"/mainGarden.jpg">
+</div>
+</div>
+<div class="bottomdiv">© Copyright 2018 Amanda Lubrani<br>
+Ranscombe Manor, Kingsbridge, Devon, TQ7 2DP</div>
+</body>
+</html>

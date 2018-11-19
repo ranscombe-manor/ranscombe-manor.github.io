@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta name="generator" content=
+"HTML Tidy for HTML5 for Linux version 5.2.0">
+<title>About - Ranscombe Manor</title>
+<link rel="stylesheet" href="styles.css">
+<link href='https://fonts.googleapis.com/css?family=Alegreya' rel=
+'stylesheet'>
+<link href='https://fonts.googleapis.com/css?family=Great+Vibes'
+rel='stylesheet'>
+<meta name="viewport" content=
+"width=device-width, initial-scale=1.0, user-scalable=yes">
+</head>
+<body>
+<img class="topimage" alt="Photo of Ranscome guest book" src=
+"/guestBook0.jpg">
+<div class="topcontent">
+<div class="callusdiv"><span class="callusspan">Call us: 01548
+854545</span></div>
+<div class="toplinks"><span class="toplinkspan"><a class="pagelink"
+href="/rooms">Rooms</a> <a href=
+"https://via.eviivo.com/ranscombetq7" class="pagelink">Book</a>
+<a class="pagelink" href="/about">About</a> <a class=
+"pagelink" href="/localarea">Local Area</a></span></div>
+<div class="title"><a class="homelink" href="/"><span class=
+"titlespan">Ranscombe Manor</span></a></div>
+<div class="pagetitlediv"><span class=
+"pagetitlespan">Reviews</span></div>
+</div>
+<div class="blurb">
+<h1>Extracts from the guest book</h1>
+<img alt="Victoria and family note" class="reviewimage" src=
+"/guestBook2.jpg"> <img alt="Jacob and Victoria note" class=
+"reviewimage" src="/guestBook3.jpg"> <img alt=
+"Dan and Kathryn note" class="reviewimage" src="/guestBook4.jpg">
+<img alt="Jess and Craig note" class="reviewimage" src=
+"/guestBook5.jpg">
+<h1>Booking.com</h1>
+<img alt="First page of reviews" class="bigimage" src=
+"/bookComReviews1.png"> <img alt="Second page of reviews" class=
+"bigimage" src="/bookComReviews2.png">
+<h1>Tripadvisor</h1>
+<div id="TA_selfserveprop337" class="TA_selfserveprop">
+<ul id="rrCu3vGS" class="TA_links CXqgAesdQn">
+<li id="ShHJR3MjXn" class="Bmy2ytuV"><a target="_blank" href=
+"https://www.tripadvisor.co.uk/"><img src=
+"https://www.tripadvisor.co.uk/img/cdsi/img2/branding/150_logo-11900-2.png"
+alt="TripAdvisor"></a></li>
+</ul>
+</div>
+<script async src=
+"https://www.jscache.com/wejs?wtype=selfserveprop&amp;uniq=337&amp;locationId=13529781&amp;lang=en_UK&amp;rating=true&amp;nreviews=4&amp;writereviewlink=true&amp;popIdx=true&amp;iswide=true&amp;border=false&amp;display_version=2"
+data-loadtrk="" onload="this.loadtrk=true">
+</script></div>
+<div class="bottomdiv">© Copyright 2018 Amanda Lubrani<br>
+Ranscombe Manor, Kingsbridge, Devon, TQ7 2DP</div>
+</body>
+</html>
