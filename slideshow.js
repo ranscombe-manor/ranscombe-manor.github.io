@@ -1,5 +1,5 @@
 var curIndex = 0,
-    imgDuration = 3000,
+    imgDuration = 2500,
     slider = document.getElementById("slider"),
     slides = slider.childNodes;
     imgArray = [
