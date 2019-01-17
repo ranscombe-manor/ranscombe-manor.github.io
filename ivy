@@ -13,15 +13,16 @@ rel='stylesheet'>
 "width=device-width, initial-scale=1.0, user-scalable=yes">
 </head>
 <body>
-<img class="topimage" alt="Ivy bedroom" src="/ivyBedroom.jpg">
+<img class="topimage" alt="Ivy bedroom" src=
+"/roomPhotos/ivyBedroom.jpg">
 <div class="topcontent">
 <div class="callusdiv"><span class="callusspan">Call us: 01548
 854545</span></div>
-<div class="toplinks"><span class="toplinkspan"><a href=
-"/rooms" class="pagelink">Rooms</a> <a href=
+<div class="toplinks"><span class="toplinkspan"><a href="/rooms"
+class="pagelink">Rooms</a> <a href=
 "https://via.eviivo.com/ranscombetq7" class="pagelink">Book</a>
-<a class="pagelink" href="/about">About Us</a> <a class=
-"pagelink" href="/localarea">Local Area</a></span></div>
+<a class="pagelink" href="/about">About Us</a> <a class="pagelink"
+href="/localarea">Local Area</a></span></div>
 <div class="title"><a class="homelink" href="/"><span class=
 "titlespan">Ranscombe Manor</span></a></div>
 <div class="pagetitlediv"><span class="pagetitlespan">Ivy and Fern
@@ -30,20 +31,22 @@ Rooms</span></div>
 <div class="blurb">
 <p>The Ivy room can be booked as a large double with en-suite for 2
 guests, or as a family suite with the inclusion of the Fern room
-for 4 guests. Please contact us for pricing and availability for
-the 2 guest option.</p>
+for 4 guests.</p>
 </div>
-<img alt="Ivy bedroom" class="bigimage" src="/ivyBedroom2.jpg">
+<img alt="Ivy bedroom" class="bigimage" src=
+"/roomPhotos/ivyBedroom2.jpg">
 <div class="blurb">
 <p>The Fern room.</p>
 </div>
-<img alt="Iris" class="smallimage" src="/fern.jpg">
+<img alt="Iris" class="smallimage" src="/roomPhotos/fern.jpg">
 <div class="blurb">
 <p>The bathroom connects Ivy and Fern.</p>
 </div>
-<img alt="Ivy bathroom" class="smallimage" src="/ivyBathroom2.jpg">
+<img alt="Ivy bathroom" class="smallimage" src=
+"/roomPhotos/ivyBathroom2.jpg">
 <div class="gapdiv"></div>
-<img alt="Ivy bathroom" class="smallimage" src="/ivyBathroom.jpg">
+<img alt="Ivy bathroom" class="smallimage" src=
+"/roomPhotos/ivyBathroom.jpg">
 <div class="bottomdiv">© Copyright 2018 Amanda Lubrani<br>
 Ranscombe Manor, Kingsbridge, Devon, TQ7 2DP</div>
 </body>

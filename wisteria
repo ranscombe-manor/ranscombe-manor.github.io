@@ -14,15 +14,15 @@ rel='stylesheet'>
 </head>
 <body>
 <img class="topimage" alt="Wisteria bedroom" src=
-"/wisteriaBedroom.jpg">
+"/roomPhotos/wisteriaBedroom.jpg">
 <div class="topcontent">
 <div class="callusdiv"><span class="callusspan">Call us: 01548
 854545</span></div>
-<div class="toplinks"><span class="toplinkspan"><a href=
-"/rooms" class="pagelink">Rooms</a> <a href=
+<div class="toplinks"><span class="toplinkspan"><a href="/rooms"
+class="pagelink">Rooms</a> <a href=
 "https://via.eviivo.com/ranscombetq7" class="pagelink">Book</a>
-<a class="pagelink" href="/about">About Us</a> <a class=
-"pagelink" href="/localarea">Local Area</a></span></div>
+<a class="pagelink" href="/about">About Us</a> <a class="pagelink"
+href="/localarea">Local Area</a></span></div>
 <div class="title"><a class="homelink" href="/"><span class=
 "titlespan">Ranscombe Manor</span></a></div>
 <div class="pagetitlediv"><span class="pagetitlespan">Wisteria and
@@ -34,16 +34,16 @@ people, or with the inclusion of the Iris room, this can be a
 spacious family suite for 4 people.</p>
 </div>
 <img alt="Wisteria bedroom" class="bigimage" src=
-"/wisteriaBedroom2.jpg">
+"/roomPhotos/wisteriaBedroom2.jpg">
 <div class="blurb">
 <p>The Iris room is next door to Wisteria.</p>
 </div>
-<img alt="Iris" class="bigimage" src="/iris.jpg">
+<img alt="Iris" class="bigimage" src="/roomPhotos/iris.jpg">
 <div class="blurb">
 <p>The bathroom opens out of Wisteria.</p>
 </div>
 <img alt="Wisteria bathroom" class="bigimage" src=
-"/wisteriaBathroom.jpg">
+"/roomPhotos/wisteriaBathroom.jpg">
 <div class="bottomdiv">© Copyright 2018 Amanda Lubrani<br>
 Ranscombe Manor, Kingsbridge, Devon, TQ7 2DP</div>
 </body>

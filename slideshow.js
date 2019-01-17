@@ -3,28 +3,16 @@ var curIndex = 0,
     slider = document.getElementById("slider"),
     slides = slider.childNodes;
     imgArray = [
-        'slideshow/mainImage.jpg',
-        'slideshow/mainImage.jpg',
-        'slideshow/01arialview.jpg',
-        'slideshow/02parterre.jpg',
-        'slideshow/03fountain.jpg',
-        'slideshow/04workshopview.jpg',
-        'slideshow/05frontdoor.jpg',
-        'slideshow/06frontdoor.jpg',
-        'slideshow/07viewfromhill.jpg',
-        'slideshow/08pond.jpg',
-        'slideshow/09pinkflower.jpg',
-        'slideshow/10ivy.jpg',
-        'slideshow/11wisteria.jpg',
-        'slideshow/12rose.jpg',
-        'slideshow/13rose.jpg',
-        'slideshow/14ivy.jpg',
-        'slideshow/15fern.jpg',
-        'slideshow/16rose.jpg',
-        'slideshow/17iris.jpg',
-        'slideshow/18rose.jpg',
-        'slideshow/19wisteria.jpg',
-        'slideshow/20wisteria.jpg'];
+        'topslideshow/02parterre.jpg',
+        'topslideshow/mainImage.jpg',
+        'topslideshow/01arialview.jpg',
+        'topslideshow/03fountain.jpg',
+        'topslideshow/09pinkflower.jpg',
+        'topslideshow/10ivy.jpg',
+        'topslideshow/14ivy.jpg',
+        'topslideshow/15fern.jpg',
+        'topslideshow/19wisteria.jpg',
+        'topslideshow/20wisteria.jpg'];
 
 
 //
