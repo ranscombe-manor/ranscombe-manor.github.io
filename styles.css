@@ -51,7 +51,7 @@ and (min-width : 300px) {
 .toplinks {
     width: 100%;
     text-align: center;
-    margin-top: 5%;
+    margin-top: calc(40px - 0.3vw);
 }
 .pagelink {
     font-family: 'Great Vibes', Georgia, serif;
@@ -71,7 +71,7 @@ and (min-width : 300px) {
     font-family: 'Great Vibes', Georgia, serif;
     font-size: calc(5px + 7vw);
     position: relative;
-    margin-top: 7vw;
+    margin-top: 10vw;
 }
 .pagetitlediv {
     width: 100%;
