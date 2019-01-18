@@ -3,16 +3,16 @@ var curIndex = 0,
     slider = document.getElementById("slider"),
     slides = slider.childNodes;
     imgArray = [
+        'topslideshow/20wisteria.jpg',
         'topslideshow/02parterre.jpg',
-        'topslideshow/mainImage.jpg',
         'topslideshow/01arialview.jpg',
-        'topslideshow/03fountain.jpg',
         'topslideshow/09pinkflower.jpg',
+        'topslideshow/mainImage.jpg',
+        'topslideshow/lounge2.jpg',
         'topslideshow/10ivy.jpg',
         'topslideshow/14ivy.jpg',
         'topslideshow/15fern.jpg',
-        'topslideshow/19wisteria.jpg',
-        'topslideshow/20wisteria.jpg'];
+        'topslideshow/19wisteria.jpg'];
 
 
 //

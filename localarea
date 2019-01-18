@@ -16,12 +16,15 @@ rel='stylesheet'>
 <img class="topimage" alt="Leas Foot beach" src=
 "/localPhotos/leasfoot.jpg">
 <div class="topcontent">
-<div class="callusdiv"><span class="callusspan">Call us: 01548
+<div class="callusdiv"><span class="callusspan">📞 01548
 854545</span></div>
-<div class="toplinks"><span class="toplinkspan"><a class="pagelink"
-href="/rooms">Rooms</a> <a href=
-"https://via.eviivo.com/ranscombetq7" class="pagelink">Book</a>
-<a class="pagelink" href="/about">About</a></span></div>
+<div class="toplinks"><span class="toplinkspan">
+<a class="pagelink" href="/">Home</a>
+<a class="pagelink" href="/rooms">Rooms</a>
+<a class="pagelink" href="/reviews">Reviews</a>
+<a class="pagelink" href="/about">About</a>
+<a href=
+"https://via.eviivo.com/ranscombetq7" class="pagelink">Book your stay</a></span></div>
 <div class="title"><a class="homelink" href="/"><span class=
 "titlespan">Ranscombe Manor</span></a></div>
 <div class="pagetitlediv"><span class="pagetitlespan">Local
@@ -411,7 +414,8 @@ Bellever Forest - May 2012</a> / <a href=
 "https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>,
 via Wikimedia Commons</span></div>
 <div class="gapdiv"></div>
-<div class="bottomdiv">© Copyright 2018 Amanda Lubrani<br>
+<div class="bottomdiv">Amanda Lubrani<br><a href=
+"mailto:info@ranscombe-manor.com">info@ranscombe-manor.com</a><br>
 Ranscombe Manor, Kingsbridge, Devon, TQ7 2DP</div>
 </body>
 </html>

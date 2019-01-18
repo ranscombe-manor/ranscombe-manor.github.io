@@ -9,7 +9,6 @@ body {
     font-weight: bold;
 }
 
-
 .homelink {
     text-decoration: none;
     color: black;
@@ -49,30 +48,36 @@ body {
 
 @media only screen
 and (min-width : 300px) {
+.toplinks {
+    width: 100%;
+    text-align: center;
+    margin-top: 5%;
+}
 .pagelink {
     font-family: 'Great Vibes', Georgia, serif;
     text-decoration: none;
-    font-size: 150%;
+    font-size: calc(11px + 1.4vw);
     padding-left: 0.4em;
     padding-right: 0.4em;
     margin-left: 0.1em;
     margin-right: 0.1em;
     color: black;
     text-shadow: 2px 2px 8px white;
+    white-space: nowrap;
 }
 .title {
     width: 100%;
     text-align: center;
     font-family: 'Great Vibes', Georgia, serif;
-    font-size: calc(5px + 6vw);
+    font-size: calc(5px + 7vw);
     position: relative;
-    margin-top: 10vw;
+    margin-top: 7vw;
 }
 .pagetitlediv {
     width: 100%;
     text-align: center;
     font-family: 'Great Vibes', Georgia, serif;
-    font-size: 250%;
+    font-size: calc(5px + 4vw);
 }
 #topgap {
     height: 50vw;
@@ -96,6 +101,11 @@ and (min-width : 300px) {
 
 @media only screen
 and (max-width : 501px) {
+.toplinks {
+    width: 100%;
+    text-align: center;
+    margin-top: 13%;
+}
 .pagelink {
     font-family: 'Great Vibes', Georgia, serif;
     text-decoration: none;
@@ -106,6 +116,7 @@ and (max-width : 501px) {
     margin-right: 0.1em;
     color: black;
     text-shadow: 2px 2px 8px white;
+    white-space: nowrap;
 }
 .pagetitlediv {
     width: 100%;
@@ -119,7 +130,7 @@ and (max-width : 501px) {
     font-family: 'Great Vibes', Georgia, serif;
     font-size: 300%;
     position: relative;
-    margin-top: 145px;
+    margin-top: 90px;
 }
 #topgap {
     height: 500px;
@@ -339,12 +350,6 @@ h1 {
     margin-left: 1rem;
 }
 
-.toplinks {
-    width: 100%;
-    text-align: center;
-    margin-top: calc(20px + 2vw);
-}
-
 .image-wrap-div {
     p1osition: relative;
     display: inline-block;
@@ -423,7 +428,7 @@ h1 {
     font-family: 'Alegreya', Georgia, serif;
     padding-left: 1%;
     padding-right: 1%;
-    font-size: calc(10px + 0.5vw);
+    font-size: calc(14px + 0.5vw);
 }
 
 .topcontent {
