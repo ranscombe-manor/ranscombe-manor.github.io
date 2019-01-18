@@ -18,13 +18,12 @@ rel='stylesheet'>
 <div class="topcontent">
 <div class="callusdiv"><span class="callusspan">📞 01548
 854545</span></div>
-<div class="toplinks"><span class="toplinkspan">
-<a class="pagelink" href="/">Home</a>
-<a class="pagelink" href="/rooms">Rooms</a>
-<a class="pagelink" href="/localarea">Local Area</a>
-<a class="pagelink" href="/about">About</a>
-<a href=
-"https://via.eviivo.com/ranscombetq7" class="pagelink">Book your stay</a></span></div>
+<div class="toplinks"><span class="toplinkspan"><a class="pagelink"
+href="/">Home</a> <a class="pagelink" href="/rooms">Rooms</a>
+<a class="pagelink" href="/localarea">Local Area</a> <a class=
+"pagelink" href="/about">About</a> <a href=
+"https://via.eviivo.com/ranscombetq7" class="pagelink">Book your
+stay</a></span></div>
 <div class="title"><a class="homelink" href="/"><span class=
 "titlespan">Ranscombe Manor</span></a></div>
 <div class="pagetitlediv"><span class=
@@ -40,8 +39,9 @@ class="reviewimage" src="/reviewPhotos/guestBook3.jpg"> <img alt=
 class="reviewimage" src="/reviewPhotos/guestBook5.jpg">
 <h1>Booking.com</h1>
 <img alt="First page of reviews" class="bigimage" src=
-"/reviewPhotos/bookComReviews1.png"> <img alt="Second page of reviews" class=
-"bigimage" src="/reviewPhotos/bookComReviews2.png">
+"/reviewPhotos/bookComReviews1.png"> <img alt=
+"Second page of reviews" class="bigimage" src=
+"/reviewPhotos/bookComReviews2.png">
 <h1>Tripadvisor</h1>
 <div id="TA_selfserveprop337" class="TA_selfserveprop">
 <ul id="rrCu3vGS" class="TA_links CXqgAesdQn">
@@ -55,7 +55,8 @@ alt="TripAdvisor"></a></li>
 "https://www.jscache.com/wejs?wtype=selfserveprop&amp;uniq=337&amp;locationId=13529781&amp;lang=en_UK&amp;rating=true&amp;nreviews=4&amp;writereviewlink=true&amp;popIdx=true&amp;iswide=true&amp;border=false&amp;display_version=2"
 data-loadtrk="" onload="this.loadtrk=true">
 </script></div>
-<div class="bottomdiv">Amanda Lubrani<br><a href=
+<div class="bottomdiv">Amanda Lubrani<br>
+<a href=
 "mailto:info@ranscombe-manor.com">info@ranscombe-manor.com</a><br>
 Ranscombe Manor, Kingsbridge, Devon, TQ7 2DP</div>
 </body>
