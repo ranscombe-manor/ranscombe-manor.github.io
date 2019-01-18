@@ -18,16 +18,14 @@ rel='stylesheet'>
 <div class="topcontent">
 <div class="callusdiv"><span class="callusspan">📞 01548
 854545</span></div>
-<div class="toplinks"><span class="toplinkspan">
-<a class="pagelink" href="/">Home</a><a href="/rooms"
-class="pagelink">Rooms</a>
- <a class="pagelink" href="/localarea">Local Area</a>
-<a class="pagelink" href="/reviews">Reviews</a>
-<a class="pagelink" href="/about">About</a>
-<a href=
-"https://via.eviivo.com/ranscombetq7" class="pagelink">Book your stay</a></div>
-<div class="title"><a class="homelink" href="/"><span class=
-"titlespan">Ranscombe Manor</span></a></div>
+<div class="toplinks"><span class="toplinkspan"><a class="pagelink"
+href="/">Home</a><a href="/rooms" class="pagelink">Rooms</a>
+<a class="pagelink" href="/localarea">Local Area</a> <a class=
+"pagelink" href="/reviews">Reviews</a> <a class="pagelink" href=
+"/about">About</a> <a href="https://via.eviivo.com/ranscombetq7"
+class="pagelink">Book your stay</a></span></div>
+<div class="title"><span class="toplinkspan"><a class="homelink"
+href="/"><span class="titlespan">Ranscombe Manor</span></a></span></div>
 <div class="pagetitlediv"><span class="pagetitlespan">Rose
 Room</span></div>
 </div>
@@ -39,8 +37,8 @@ sized bed.</p>
 "/roomPhotos/rose2.jpg">
 <div class="blurb">
 <p>The en-suite bathroom is beautifully modern with a window
-overlooking the garden. The en-suite has a large walk-in shower
-and bath.</p>
+overlooking the garden. The en-suite has a large walk-in shower and
+bath.</p>
 </div>
 <img alt="Rose bathroom" class="bigimage" src=
 "/roomPhotos/roseBathroom.jpg">
@@ -49,7 +47,8 @@ and bath.</p>
 </div>
 <img alt="View of the garden" class="bigimage" src=
 "/roomPhotos/roseView.jpg">
-<div class="bottomdiv">Amanda Lubrani<br><a href=
+<div class="bottomdiv">Amanda Lubrani<br>
+<a href=
 "mailto:info@ranscombe-manor.com">info@ranscombe-manor.com</a><br>
 Ranscombe Manor, Kingsbridge, Devon, TQ7 2DP</div>
 </body>

@@ -18,13 +18,12 @@ rel='stylesheet'>
 <div class="topcontent">
 <div class="callusdiv"><span class="callusspan">📞 01548
 854545</span></div>
-<div class="toplinks"><span class="toplinkspan">
-<a class="pagelink" href="/">Home</a>
-<a class="pagelink" href="/rooms">Rooms</a>
-<a class="pagelink" href="/reviews">Reviews</a>
-<a class="pagelink" href="/about">About</a>
-<a href=
-"https://via.eviivo.com/ranscombetq7" class="pagelink">Book your stay</a></span></div>
+<div class="toplinks"><span class="toplinkspan"><a class="pagelink"
+href="/">Home</a> <a class="pagelink" href="/rooms">Rooms</a>
+<a class="pagelink" href="/reviews">Reviews</a> <a class="pagelink"
+href="/about">About</a> <a href=
+"https://via.eviivo.com/ranscombetq7" class="pagelink">Book your
+stay</a></span></div>
 <div class="title"><a class="homelink" href="/"><span class=
 "titlespan">Ranscombe Manor</span></a></div>
 <div class="pagetitlediv"><span class="pagetitlespan">Local
@@ -216,8 +215,8 @@ even the most radical hot-doggers.</p>
 src="/localPhotos/kingsbridge3.jpg"></div>
 <div class="imblock"><img alt="Fore Street, Kingsbridge" class=
 "localarea" src="/localPhotos/kingsbridge5.jpg"></div>
-<div class="creditdiv"><span class="credit">By Roger
-Cornfoot / <a href=
+<div class="creditdiv"><span class="credit">By Roger Cornfoot /
+<a href=
 "https://upload.wikimedia.org/wikipedia/commons/4/47/Shops%2C_in_Fore_Street%2C_Kingsbridge_-_geograph.org.uk_-_1434359.jpg">
 Shops in Fore Street Kingsbridge</a> / <a href=
 "https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA
@@ -414,7 +413,8 @@ Bellever Forest - May 2012</a> / <a href=
 "https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>,
 via Wikimedia Commons</span></div>
 <div class="gapdiv"></div>
-<div class="bottomdiv">Amanda Lubrani<br><a href=
+<div class="bottomdiv">Amanda Lubrani<br>
+<a href=
 "mailto:info@ranscombe-manor.com">info@ranscombe-manor.com</a><br>
 Ranscombe Manor, Kingsbridge, Devon, TQ7 2DP</div>
 </body>
