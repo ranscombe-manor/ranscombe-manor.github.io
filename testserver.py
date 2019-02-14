@@ -6,8 +6,9 @@ def getmain():
 
 @bottle.get('/<filename>')
 def getstyles(filename):
+    if '.' not in filename:
+        filename = filename + '.html'
     return bottle.static_file(filename, root='.')
-
 
 @bottle.get('/slideshow/<filename>')
 def slideshow(filename):
