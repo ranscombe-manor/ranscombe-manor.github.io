@@ -14,6 +14,14 @@ def getstyles(filename):
 def slideshow(filename):
     return bottle.static_file(filename, root='./slideshow')
 
+@bottle.get('/chapelTop/<filename>')
+def chapelTop(filename):
+    return bottle.static_file(filename, root='./chapelTop')
+
+@bottle.get('/chapelManual/<filename>')
+def chapelTop(filename):
+    return bottle.static_file(filename, root='./chapelManual')
+
 @bottle.get('/topslideshow/<filename>')
 def topslideshow(filename):
     return bottle.static_file(filename, root='./topslideshow')
