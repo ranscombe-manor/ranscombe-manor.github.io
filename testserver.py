@@ -38,4 +38,4 @@ def topslideshow(filename):
 def topslideshow(filename):
     return bottle.static_file(filename, root='./roomPhotos')
 
-bottle.run(host='localhost', port=3000, debug=True)
+bottle.run(host='localhost', port=3000, debug=True, server='paste')
