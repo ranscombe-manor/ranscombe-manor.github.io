@@ -3,12 +3,12 @@ var curIndex = 0,
     slider = document.getElementById("slider"),
     slides = slider.childNodes;
     imgArray = [
-        'chapelTop/7livingArea.webp',
-        'chapelTop/1viewFromPond.webp',
-        'chapelTop/2bothWindows.webp',
-        'chapelTop/3viewOverLawn.webp',
-        'chapelTop/4viewFromParterre.webp',
-        'chapelTop/6kitchenIsland.webp']
+        'chapelTop/7livingArea.jpeg',
+        'chapelTop/1viewFromPond.jpeg',
+        'chapelTop/2bothWindows.jpeg',
+        'chapelTop/3viewOverLawn.jpeg',
+        'chapelTop/4viewFromParterre.jpeg',
+        'chapelTop/6kitchenIsland.jpeg']
 
 function buildSlideShow(arr) {
     for (i = 0; i < arr.length; i++) {
