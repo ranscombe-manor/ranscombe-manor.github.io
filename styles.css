@@ -183,6 +183,13 @@ p {
     margin-left: 1em;
 }
 
+#fsa {
+    margin-right: 1em;
+    font-family: 'Alegreya', Georgia, serif;
+    font-size: 120%;
+    margin-left: 1em;
+}
+
 #embed {
     padding-left: 1em;
     width: 100%;
@@ -327,20 +334,19 @@ p {
     margin-bottom: 4em;
 }
 
-#prize18 {
-    width: 160px;
-    margin-left: 1em;
-    margin-right: 1em;
-    margin-bottom: 1em;
-}
-
-#prize17 {
+.prizephoto {
     height: 160px;
     margin-left: 1em;
     margin-right: 1em;
     margin-bottom: 1em;
 }
 
+.fsaphoto {
+    height: 130px;
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-bottom: 1em;
+}
 
 .roomlink {
     text-decoration: none;
