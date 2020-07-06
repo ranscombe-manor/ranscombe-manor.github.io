@@ -334,6 +334,13 @@ p {
     margin-bottom: 4em;
 }
 
+#food {
+    height: 80px;
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-bottom: 1em;
+}
+
 .prizephoto {
     height: 160px;
     margin-left: 1em;
